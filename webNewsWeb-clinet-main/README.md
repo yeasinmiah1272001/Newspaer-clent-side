@@ -4,7 +4,7 @@
 Live website link :
 [WebNewsWave](https://webnewswave-client.web.app/)
 
-Server site code link: [WebNewsWave-server](https://github.com/Shahed007/webNewsWeb-server-v1)
+Server site code link: [WebNewsWave-server](https://github.com/yeasinmiah1272001/Newspaer-clent-side/tree/main/webNewsWeb-server-v1-main/webNewsWeb-server-v1-main)
 
 # Admin dashboard
 
